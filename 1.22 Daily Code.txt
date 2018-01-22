@@ -1,0 +1,11 @@
+Daily Code for 1/22/18
+
+1. Introductory Level
+Screencast and email Dr. Mo your princess quiz
+
+2. Intermediate Level
+Create an account on HackerRank and do this challenge:
+https://www.hackerrank.com/challenges/cpp-input-and-output/problem
+
+3. Advanced:
+https://www.hackerrank.com/challenges/c-tutorial-functions/problem
