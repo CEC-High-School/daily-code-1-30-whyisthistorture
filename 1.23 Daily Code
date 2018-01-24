@@ -1,0 +1,7 @@
+1st semester:
+Ask a user for their score. If it's under 50, insult them. If it's over 100 compliment them. Otherwise just say something neutral. 
+
+Intermediate: initialize a string array with the titles of 8 of your favorite songs. Then use a for loop to print them to the screen. 
+
+Advanced: Use a namespace to rewrite the rand() function to only return the number 5. Then call it and the old rand function. 
+Print their output to the screen to compare. 
