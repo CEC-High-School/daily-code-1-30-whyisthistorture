@@ -1,0 +1,5 @@
+//create a password program!
+//ask a user for three character values
+//then check if those characters equal 'N' 'E' 'S'
+//if they do, tell them they're welcome to play the game
+//if they get it wrong, insult them
