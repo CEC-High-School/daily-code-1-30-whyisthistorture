@@ -1,0 +1,5 @@
+Daily Cdoe for 1.29.18
+
+Intro: Ask the user for the radius of a circle. Then, print out its area and circumference.
+Advanced: Ask a user for their age. Then print that age out in a huge font in a game window, with the words, "Happy XXth Birthday!"
+(where the XX is the number they gave you). 
